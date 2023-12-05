@@ -11,3 +11,5 @@ Webpage - https://neuronexusinnovations.weebly.com/
 Gmail - nni1.contactcc@gmail.com
 
 Linkedin - https://www.linkedin.com/company/neuronexusinnovations/?viewAsMember=true
+
+Keggle Link of my First Task: https://www.kaggle.com/code/anshuldub/first-task
